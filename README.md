@@ -1,4 +1,4 @@
-# Software Project - Final Project: K-means Clustering and Matrix Calculations
+# Software Project - Final Project: K-means Clustering
 This is the final project for the course "Project Software" at Tel-Aviv University.
 
 ## Compiling
@@ -23,7 +23,7 @@ For the kmeanspp goal, the input file should contain a matrix of size Nxd, where
 The program will then perform the desired calculation and print the result to the standard output.
 
 ## Grading
-This program was graded 100.
+This Project was graded 100.
 
 ## Notes
 The program includes additional functions that were not specified in the original prompt, such as the calculation of the normalized Laplacian matrix and the Jacobi method for calculating eigenvalues and eigenvectors. These functions were implemented for additional functionality and as a learning exercise.  
