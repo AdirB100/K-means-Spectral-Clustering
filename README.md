@@ -106,3 +106,7 @@ Advances in neural information processing systems, 14:849–856, 2001.
 ## Thanks
 
 Special thanks to my collaborator **Offir Dassa**, who contributed equally to this project. It was a great experience working together on this challenging and rewarding project.
+
+## Additional Resources
+
+For reference, this repository also includes a directory titled Preliminary_Exercises, which contains the exercises completed throughout the "Software Project" course at Tel Aviv University. These exercises contributed to building the foundational skills and concepts that influenced the development of the final project.
